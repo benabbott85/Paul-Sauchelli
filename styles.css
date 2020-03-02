@@ -118,3 +118,26 @@ h2 {
     margin-top: 150px;
     font-size: 20px;
 }
+
+.kerbal {
+    margin-left: 200px;
+    margin-top: 20px;
+    padding-right: 10px;
+}
+
+.science{
+    width: 400px;
+    height: 220px;
+    margin-top: 20px;
+    margin-left: 250px;
+}
+
+.portfolioimages {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    width: 70%;
+    margin-left: 150px
+}
