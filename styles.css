@@ -39,6 +39,7 @@ h2 {
     top: 30px;
     width: 40%;
     left: -30px;
+    height: 50%;
 }
 
 #content {
@@ -54,6 +55,7 @@ h2 {
     padding: 20px;
     line-height: 1.8;
     margin-left: 230px;
+    /* margin-top: 20px; */
     
 }
 
@@ -100,4 +102,19 @@ h2 {
 
 #developerprofile{
     height: 175px;
+}
+
+.contactme{
+    text-align: center;
+}
+
+.contact{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 300px;
+    text-align: center;
+    margin-left: 550px;
+    margin-top: 150px;
+    font-size: 20px;
 }
